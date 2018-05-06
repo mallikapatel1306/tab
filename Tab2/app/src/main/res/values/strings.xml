@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Flat</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="Relation">
+        <item>Grand-Father</item>
+        <item>Grand-Mother</item>
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Husband</item>
+        <item>Wife</item>
+        <item>Daughter</item>
+        <item>Son</item>
+    </string-array>
+</resources>
